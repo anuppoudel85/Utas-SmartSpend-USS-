@@ -5,12 +5,12 @@ This project involves the design and implementation of a web-based expense manag
 
 # Key Features:
 1.Database Management:
-Supports both SQLite and MySQL, allowing the team to choose based on project needs.
-Implements relational database schemas with constraints for secure and reliable data handling.
+- Supports both SQLite and MySQL, allowing the team to choose based on project needs.
+- Implements relational database schemas with constraints for secure and reliable data handling.
 
 2.User Authentication:
-Secure login/logout functionality with encryption for sensitive information such as passwords.
-Role-based access control to ensure appropriate permissions for users.
+- Secure login/logout functionality with encryption for sensitive information such as passwords.
+- Role-based access control to ensure appropriate permissions for users.
 
 3.Registration and User Management:
 Registration page for collecting and securely storing user data in the database.
@@ -23,13 +23,14 @@ System Manager dashboard displays summaries of all registered users by role.
 - System Manager Dashboard: Provides insights into user and expense statistics.
 
 5.Expense Management:
-Staff and Managers can submit expense reports with detailed information.
-Status tracking for drafted, submitted, and approved expenses.
+- Staff and Managers can submit expense reports with detailed information.
+- Status tracking for drafted, submitted, and approved expenses.
 
 6.Expense Review and Approval:
-Managers and Heads of Department can view pending reports, evaluate details, and approve/reject expenses.
-Includes options for adding comments and feedback for better communication.
+- Managers and Heads of Department can view pending reports, evaluate details, and approve/reject expenses.
+- Includes options for adding comments and feedback for better communication.
 
 7.Approval Workflow:
-Multi-level approval process: Manager reviews first, followed by the Head of Department for final decisions.
+- Multi-level approval process: Manager reviews first, followed by the Head of Department for final decisions.
+  
 This project demonstrates proficiency in secure web application development, database management, and role-based system functionality using Laravel and an enterprise-level relational database.
