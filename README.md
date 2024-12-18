@@ -17,10 +17,10 @@ Registration page for collecting and securely storing user data in the database.
 System Manager dashboard displays summaries of all registered users by role.
 
 4.Role-Based Dashboards:
-Staff Dashboard: Displays ongoing and approved expense summaries.
-Manager Dashboard: Highlights pending approvals, ongoing, and approved expenses.
-Head of Department Dashboard: Offers summaries for pending approvals and team hierarchy.
-System Manager Dashboard: Provides insights into user and expense statistics.
+- Staff Dashboard: Displays ongoing and approved expense summaries.
+- Manager Dashboard: Highlights pending approvals, ongoing, and approved expenses.
+- Head of Department Dashboard: Offers summaries for pending approvals and team hierarchy.
+- System Manager Dashboard: Provides insights into user and expense statistics.
 
 5.Expense Management:
 Staff and Managers can submit expense reports with detailed information.
