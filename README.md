@@ -13,8 +13,8 @@ This project involves the design and implementation of a web-based expense manag
 - Role-based access control to ensure appropriate permissions for users.
 
 3.Registration and User Management:
-Registration page for collecting and securely storing user data in the database.
-System Manager dashboard displays summaries of all registered users by role.
+- Registration page for collecting and securely storing user data in the database.
+- System Manager dashboard displays summaries of all registered users by role.
 
 4.Role-Based Dashboards:
 - Staff Dashboard: Displays ongoing and approved expense summaries.
