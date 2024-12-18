@@ -1,0 +1,13 @@
+.grid-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.sponser-name {
+    font-size: 1.5rem;
+}
+
+.small-table {
+    width: 50%;
+}
