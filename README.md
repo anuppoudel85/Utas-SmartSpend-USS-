@@ -1,7 +1,7 @@
 # Utas-SmartSpend-USS-
 # Project Description
 
-This project involves the design and implementation of a web-based expense management system developed using Laravel, with a focus on secure user authentication and database interaction. It adheres to the requirements outlined in Assignment 2 for KIT502 Web Management, ensuring seamless communication between client and server-side functionalities.
+This project involves the design and implementation of a web-based expense management system developed using Laravel, with a focus on secure user authentication and database interaction. It adheres to the requirements outlined  ensuring seamless communication between client and server-side functionalities.
 
 # Key Features:
 1.Database Management:
